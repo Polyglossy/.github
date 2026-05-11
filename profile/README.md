@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This organization has born out the collective love the community felt towards the [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) Visual Studio extension and the [.NET Interactive](https://github.com/dotnet/interactive) project behind it.
+
+The goal is to keep the projects alive and growing with a new name, and with 100% community effort. 
+
 <!--
 
 **Here are some ideas to get you started:**
